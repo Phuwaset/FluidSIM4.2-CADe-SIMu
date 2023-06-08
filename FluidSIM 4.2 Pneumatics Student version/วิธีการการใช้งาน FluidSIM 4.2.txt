@@ -1,0 +1,3 @@
+วิธีการการใช้งาน FluidSIM 4.2 Pneumatics Student version  
+   ตัวโปรแกรมไม่ต้องทำการติดตั้งลงในเครื่อง ให้ทำการ Coppy ไฟล์ FluidSIM 4.2 Pneumatics Student version 
+วางไว้ในเครื่องแล้วเข้าไปที่ Folder- bin/fl_sim_p.exe ดับเบิลคลิกไฟล์ fl_sim_p.exe  สามารถใช้งานได้เลย
